@@ -1,1 +1,1 @@
-aws s3 cp --recursive public-read ./build s3://udacityfullstack10122/
+aws s3 cp --recursive ./build s3://udacityfullstack10122/
